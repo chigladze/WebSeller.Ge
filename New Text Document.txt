@@ -1,0 +1,30 @@
+travel
+food / drink
+beauty / health/ medical
+cars / bikes / automotive
+marketing / advertising
+agricultural / livestrock
+animal / pet care
+business / proffesional service
+ecommerce
+import / export / wholesale
+leisure / entertainment / sports
+press / media / books
+household services / maintenance
+building / construction
+child products and services
+education / traning
+furniture / household goods
+IT / online businesses
+hire / rental
+industrial / manufactoring
+property / real estate
+payment and financial services
+transport / distribution / storage
+creative services
+energy / commodities
+electronics / telecom / gadgets
+retail / convenience / grocery
+art / gifts / collectibles
+stationery / officie supplies
+blog
